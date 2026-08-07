@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aashirbycodes.github.io/CodeAlpha_Portfolio/sitemap.xml
